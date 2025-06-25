@@ -3,7 +3,7 @@
 ## About Me
 Driven by curiosity and fueled by a passion for engineering, I thrive on solving complex, real-world problems. As a quick starter, I excel at turning challenges into opportunities and delivering innovative solutions.
 
-I'm an experienced IT professional specializing in software engineering and data analytics.I am currently based in  Worcester and on H4 EAD (No need Sponsorship). Currently contributing to innovative projects, leveraging system programming, data analytics, and design thinking to deliver high-quality solutions across diverse domains.
+I'm an experienced IT professional specializing in software engineering and data analytics. Currently contributing to innovative projects, leveraging system programming, data analytics, and design thinking to deliver high-quality solutions across diverse domains.
 
 ## 🔧 Technologies & Tools
 
@@ -61,23 +61,22 @@ An NLP-based Sentimental Analysis project using Python, leveraging natural langu
 
 ## 🎓 Education
 
-**Master of Computer Engineering**  
-*Mumbai University* | Mumbai, India | GPA: 8.0/10.0
+**Master in Computer Engineering**  
+*Mumbai University* | Mumbai, India| GPA: 8.0/10.0
 
-**Bachelor of Computer Engineering**  
-*YMumbai University* | Mumbai,india | GPA: 9.0/10
+**Bachelor of Technology in Computer Science**  
+*Mumbai universityy* | Mumbai, India
 
 ## 🎯 Current Focus
 
 I am currently focused on applying my data analytics expertise to drive decision-making and operational efficiency in fast-paced, mission-driven organizations.
-My interests include:Building insightful dashboards and reporting systems using SQL, Power BI, and Python,Supporting product, finance, and marketing teams with data-driven recommendations,Leveraging customer behavior analysis and funnel metrics to optimize eCommerce growth,Contributing to socially impactful industries such as healthcare, public service, and women's wellness
-
-Exploring opportunities that combine strategic thinking with hands-on analytics at scale.
+My interests include:Building insightful dashboards and reporting systems using SQL, Power BI, and Python,Supporting product, finance, and marketing teams with data-driven recommendations
+,Leveraging customer behavior analysis and funnel metrics to optimize eCommerce growth,Contributing to socially impactful industries such as healthcare, public service, and women's wellness,Exploring opportunities that combine strategic thinking with hands-on analytics at scale
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radhika-patil-88007965/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:radhikapatil3012.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radhika-patil-88007965/))
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:radhikapatil3012@example.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=github-pages&logoColor=white)](https://rads30.github.io)
 
 ---
