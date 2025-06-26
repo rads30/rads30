@@ -1,7 +1,7 @@
 # Hi, I'm Radhika 👋
 
 ## About Me
-Driven by curiosity and fueled by a passion for engineering, I thrive on solving complex, real-world problems. As a quick starter, I excel at turning challenges into opportunities and delivering innovative solutions.
+Driven by curiosity and fueled by a passion for engineering, I thrive on solving complex, real-world problems. As a quick starter, I excel at turning challenges into opportunities and delivering innovative solutions.  
 
 I'm an experienced IT professional specializing in software engineering and data analytics. Currently contributing to innovative projects, leveraging system programming, data analytics, and design thinking to deliver high-quality solutions across diverse domains.
 
