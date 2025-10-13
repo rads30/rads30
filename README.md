@@ -1,4 +1,4 @@
-# Hi, I'm Radhika 👋
+# Hi, I'm Radhika 
 
 ## About Me
 Driven by curiosity and fueled by a passion for engineering, I thrive on solving complex, real-world problems. As a quick starter, I excel at turning challenges into opportunities and delivering innovative solutions.  
