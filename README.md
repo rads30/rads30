@@ -3,7 +3,7 @@
 ## About Me
 Driven by curiosity and fueled by a passion for engineering, I thrive on solving complex, real-world problems. As a quick starter, I excel at turning challenges into opportunities and delivering innovative solutions.  
 
-I'm an experienced IT professional specializing in software engineering and data analytics. Currently contributing to innovative projects, leveraging system programming, data analytics, and design thinking to deliver high-quality solutions across diverse domains.
+I am an experienced IT professional specializing in software engineering and data analytics. Currently contributing to innovative projects, leveraging system programming, data analytics, and design thinking to deliver high-quality solutions across diverse domains.
 
 ## 🔧 Technologies & Tools
 
