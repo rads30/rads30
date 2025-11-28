@@ -80,7 +80,7 @@ Visualized end-to-end user journey, identified drop-off points, and recommended 
 ## Previous Job Experience
 
 **Nehvij Technologies**  
-*At Nehvij Technologies, I worked for 5 years as a Data Analyst, supporting web analytics, reporting, and data-driven decision-making. Since the company builds mobile apps, games, and custom software, I worked closely with cross-functional teams to analyze user behavior, track product performance, and build dashboards using SQL, Google Analytics, and Power BI. I focused on understanding how users interacted with our digital products and turning that data into actionable insights for marketing, product, and leadership teams.
+At Nehvij Technologies, I worked for 5 years as a Data Analyst, supporting web analytics, reporting, and data-driven decision-making. Since the company builds mobile apps, games, and custom software, I worked closely with cross-functional teams to analyze user behavior, track product performance, and build dashboards using SQL, Google Analytics, and Power BI. I focused on understanding how users interacted with our digital products and turning that data into actionable insights for marketing, product, and leadership teams.
 
 
 ## 🎯 Current Focus
