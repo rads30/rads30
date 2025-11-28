@@ -61,6 +61,8 @@ An NLP-based Sentimental Analysis project using Python, leveraging natural langu
 - 🚀 Led cross-functional teams resulting in 50% boost in employee efficiency
 - 📈 Implemented ML techniques achieving 20% accuracy improvement
 - 🔧 Developed RPA solutions contributing to 25% increase in actionable insights
+- 🛍 Customer Segmentation Dashboard – Analyzed customer segments and revenue trends, identified high-value customers, and provided actionable insights for marketing and retention
+- 📊 Ecommerce Funnel & Conversion Dashboard – Visualized end-to-end user journey, identified drop-off points, and recommended optimizations to improve conversion rates
 
 ## 🎓 Education
 
