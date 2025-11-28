@@ -53,7 +53,7 @@ Implementing Data Mining using the Unsupervised learning method of Cluster analy
 An NLP-based Sentimental Analysis project using Python, leveraging natural language processing techniques for emotion detection.
 
 ### 🛍 Customer Segmentation Dashboard 
-– Analyzed customer segments and revenue trends, identified high-value customers, and provided actionable insights for marketing and retention
+Analyzed customer segments and revenue trends, identified high-value customers, and provided actionable insights for marketing and retention
 
 ### 🔗 [View More Projects](https://github.com/rads30?tab=repositories)
 
@@ -71,14 +71,20 @@ An NLP-based Sentimental Analysis project using Python, leveraging natural langu
 **Master in Computer Engineering**  
 *Mumbai University* | Mumbai, India| GPA: 8.0/10.0
 
-**Bachelor of Technology in Computer Science**  
-*Mumbai universityy* | Mumbai, India
+**Bachelor in Computer Engineering**  
+*Mumbai university* | Mumbai, India
+
+## Previous Job Experience
+
+**Nehvij Technologies**  
+*At Nehvij Technologies, I worked for 5 years as a Data Analyst, supporting web analytics, reporting, and data-driven decision-making. Since the company builds mobile apps, games, and custom software, I worked closely with cross-functional teams to analyze user behavior, track product performance, and build dashboards using SQL, Google Analytics, and Power BI. I focused on understanding how users interacted with our digital products and turning that data into actionable insights for marketing, product, and leadership teams.
+
 
 ## 🎯 Current Focus
 
 I am currently focused on applying my data analytics expertise to drive decision-making and operational efficiency in fast-paced, mission-driven organizations.
 My interests include:Building insightful dashboards and reporting systems using SQL, Power BI, and Python,Supporting product, finance, and marketing teams with data-driven recommendations
-,Leveraging customer behavior analysis and funnel metrics to optimize eCommerce growth,Contributing to socially impactful industries such as healthcare, public service, and women's wellness,Exploring opportunities that combine strategic thinking with hands-on analytics at scale
+,Leveraging customer behavior analysis and funnel metrics to optimize eCommerce growth,Contributing to socially impactful industries such as healthcare, public service, and women's wellness,Exploring opportunities that combine strategic thinking with hands-on analytics at scale.
 
 ## 📫 Let's Connect!
 
