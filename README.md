@@ -34,7 +34,7 @@ I am an experienced IT professional specializing in software engineering and dat
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
-
+![TABLEAU](
 **BI & Visualization:** Tableau (dashboards, stories), Matplotlib / Seaborn, Excel 
 **Experimentation & Reporting:** A/B testing, funnel analysis, data storytelling  
 
@@ -55,6 +55,10 @@ An NLP-based Sentimental Analysis project using Python, leveraging natural langu
 ### 🛍 Customer Segmentation Dashboard 
 Analyzed customer segments and revenue trends, identified high-value customers, and provided actionable insights for marketing and retention
 
+### 📊 Ecommerce Funnel & Conversion Dashboard 
+Visualized end-to-end user journey, identified drop-off points, and recommended optimizations to improve conversion rates
+
+
 ### 🔗 [View More Projects](https://github.com/rads30?tab=repositories)
 
 ## 💼 Experience Highlights
@@ -64,7 +68,6 @@ Analyzed customer segments and revenue trends, identified high-value customers, 
 - 🚀 Led cross-functional teams resulting in 50% boost in employee efficiency
 - 📈 Implemented ML techniques achieving 20% accuracy improvement
 - 🔧 Developed RPA solutions contributing to 25% increase in actionable insights
-- 📊 Ecommerce Funnel & Conversion Dashboard – Visualized end-to-end user journey, identified drop-off points, and recommended optimizations to improve conversion rates
 
 ## 🎓 Education
 
