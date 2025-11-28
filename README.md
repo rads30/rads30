@@ -34,6 +34,7 @@ I am an experienced IT professional specializing in software engineering and dat
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
+**BI & Visualization:** Tableau (dashboards, stories), Matplotlib / Seaborn, Excel  
 
 ## 📊 GitHub Stats
 
