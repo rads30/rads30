@@ -92,7 +92,10 @@ My interests include:Building insightful dashboards and reporting systems using 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radhika-patil-88007965/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:radhikapatil3012@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=github-pages&logoColor=white)](https://rads30.github.io)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=github-pages&logoColor=white)](https://github.com/rads30)
+[![Tableau Dashboard](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=github-pages&logoColor=white)](https://public.tableau.com/app/profile/radhika.patil6984/vizzes)
+
+
 
 ---
 ⭐️ From [rads30](https://github.com/rads30) - Radhika
