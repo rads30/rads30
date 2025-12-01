@@ -51,9 +51,8 @@ Implementing Data Mining using the Unsupervised learning method of Cluster analy
 ### 🤖 NLP Sentiment Analysis
 An NLP-based Sentimental Analysis project using Python, leveraging natural language processing techniques for emotion detection.
 
-### 🛍 Customer Segmentation Dashboard 
+### 🛍 [Customer Segmentation Dashboard](https://github.com/rads30/Customer-Segmentation-Revenue-Dashboard-Tableau-)
 Analyzed customer segments and revenue trends, identified high-value customers, and provided actionable insights for marketing and retention
-https://github.com/rads30/Customer-Segmentation-Revenue-Dashboard-Tableau-
 
 ### 📊 Ecommerce Funnel & Conversion Dashboard 
 Visualized end-to-end user journey, identified drop-off points, and recommended optimizations to improve conversion rates
