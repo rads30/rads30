@@ -53,6 +53,7 @@ An NLP-based Sentimental Analysis project using Python, leveraging natural langu
 
 ### 🛍 Customer Segmentation Dashboard 
 Analyzed customer segments and revenue trends, identified high-value customers, and provided actionable insights for marketing and retention
+https://github.com/rads30/Customer-Segmentation-Revenue-Dashboard-Tableau-
 
 ### 📊 Ecommerce Funnel & Conversion Dashboard 
 Visualized end-to-end user journey, identified drop-off points, and recommended optimizations to improve conversion rates
