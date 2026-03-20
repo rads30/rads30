@@ -37,9 +37,9 @@ I am an experienced IT professional specializing in software engineering and dat
 **BI & Visualization:** Tableau (dashboards, stories), Matplotlib / Seaborn, Excel 
 **Experimentation & Reporting:** A/B testing, funnel analysis, data storytelling  
 
-## 📊 GitHub Stats
+<!-- .## 📊 GitHub Stats .. -->
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rads30&show_icons=true&theme=radical)
+<!--![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rads30&show_icons=true&theme=radical)-->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rads30&layout=compact&theme=radical)
 
